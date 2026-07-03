@@ -1,0 +1,51 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build directories
+build/
+dist/
+tmp/
+temp/
+
+# LaTeX build outputs
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Large generated or packaged files
+*.pdf
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Data tables and binary arrays
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.pkl
+*.pickle
+*.npy
+*.npz
+

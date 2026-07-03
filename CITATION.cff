@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the associated HARC-DGA article or archived artifact."
+title: "HARC-DGA: A Risk-Coverage Benchmark for Open-World DGA Family Attribution in Network-Security Triage"
+authors:
+  - family-names: "Nguyen"
+    given-names: "Minh Tu"
+  - family-names: "Tong"
+    given-names: "Anh Tuan"
+  - family-names: "Hoang"
+    given-names: "Viet Long"
+type: dataset
+url: "https://github.com/tunguyen-195/-HARC-DGA"
+keywords:
+  - "domain generation algorithms"
+  - "DGA"
+  - "open-world recognition"
+  - "family attribution"
+  - "risk coverage"
+  - "network security"
+
